@@ -37,15 +37,6 @@ This file must be executed, to define all the functions and variables required f
 
 -----------------------------------------------------
 
-📜 Credits
-< Apoorva KR > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
-
-Contact me for Data Science Project Collaborations
-
-LinkedIn Badge GitHub Badge
-
------------------------------------------------------
-
 📚 References
 'Mobile Price Prediction Using Machine Learning Blog' . [Online].
 
