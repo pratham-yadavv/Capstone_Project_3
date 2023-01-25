@@ -7,8 +7,8 @@ Built a Multi-Class classification model to find the relation between features o
 This Project includes 2 executable files, 1 text files ,1 h5 file as well as 1 directories as follows:
 
 Executable Files:
-mobile_price_range_prediction_Apoorva_KR.ipynb - Includes all functions required for classification operations and generates the model.h5 file after execution.
-final_notebook_mobile_price_range_prediction_Apoorva_KR.ipynb - after execution, evaluation is done on the unseen data as in confusion_matrix.txt.
+mobile_price_range_prediction.ipynb - Includes all functions required for classification operations and generates the model.h5 file after execution.
+final_notebook_mobile_price_range_prediction.ipynb - after execution, evaluation is done on the unseen data as in confusion_matrix.txt.
 Output Files:
 model.h5 - Model contains information about the predictions of the train set, such as 0(low),high(1),very high(2).
 confusion_matrix.txt - Contains information about the classified emotions of the test set.
